@@ -3,7 +3,7 @@
 Les _slides_ des présentations faites dans le cadre du cours
 INF889A, Analyse de programmes pour la sécurité logicielle, à
 l'université du Québec à Montréal (UQAM), à la session d'hiver
-2024.
+2024 (https://web.archive.org/web/20240429002708/https://inf889a.uqam.ca/)
 
 
 ## Présentation 1 - Un article
