@@ -27,7 +27,14 @@ https://link.springer.com/chapter/10.1007/978-3-642-37051-9_6
 
 La présentation d'un outil au choix. Le sujet:
 
-`GadgetInspector`, par Ian Haken, disponible à https://github.com/jackofmosttrades/gadgetinspector
+```
+GadgetInspector
+Ian Haken
+2018
+
+https://github.com/jackofmosttrades/gadgetinspector
+```
+
 La présentation contient:
 
 - Une brève mise en contexte relative aux vulnérabilités de désérialisation Java.
